@@ -10,7 +10,7 @@
     "Angular",
     "Karma"
   ],
-  "author": "Ramesh",
+  "author": "Bharath",
   "license": "MIT",
   "devDependencies": {
     "angular-mocks": "^1.5.8",
